@@ -1,4 +1,4 @@
-# Analysis-methods-of-the-most-important-factors-in-Covid-19-based-on-clustering-techniques-and-multiv
+# Covid-19-based-on-clustering-techniques-and-multivariate-analysis
 Variable de salida(New_Cases)
 
 
