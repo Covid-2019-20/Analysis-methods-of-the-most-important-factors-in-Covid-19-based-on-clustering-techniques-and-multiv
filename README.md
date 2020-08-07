@@ -11,7 +11,7 @@ Metodo Propuesto :
 3. Filtración de datos(Group by locations)
 4. Transformación de datos(Estandarización)
 5. Reducción(PCA)
-6.Metodo de Aprendizaje(Splitting,Random forest,Regresión Lineal Multiples Variables)
+6.Metodo de Aprendizaje(Splitting,Regresión Lineal Multiples Variables)
 7.Visualización (Clustering,Kmeans(elbow),Agrupación de Usuarios )
 
 
