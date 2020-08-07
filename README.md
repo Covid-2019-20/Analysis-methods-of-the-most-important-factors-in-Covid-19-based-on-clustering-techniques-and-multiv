@@ -2,10 +2,10 @@
 Variable de salida(New_Cases)
 
 
-Dataset: Nuevos Casos de corona virus según los países 
-Link: https://ourworldindata.org/coronavirus-data
-Tipo de Problema de Aprendizaje: Claustering
-Medida de calidad : Distortion
+Dataset: Nuevos Casos de corona virus según los países <br/>
+Link: https://ourworldindata.org/coronavirus-data <br/>
+Tipo de Problema de Aprendizaje: Claustering <br/>
+Medida de calidad : Distortion <br/>
 Metodo Propuesto : 
 
 1. Carga de datos 
