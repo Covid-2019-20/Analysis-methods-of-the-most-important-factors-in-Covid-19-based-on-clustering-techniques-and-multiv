@@ -14,7 +14,7 @@ Metodo Propuesto :
 4. Transformación de datos(Estandarización)
 5. Reducción(PCA)<br>
 6. Metodo de Aprendizaje(Splitting,Regresión Lineal Multiples Variables)
-7. Visualización (Clustering,Kmeans(elbow),Agrupación de Usuarios) 
+7. Visualización (Clustering,Kmeans(elbow),Agrupación de Paises) 
 
 
 
