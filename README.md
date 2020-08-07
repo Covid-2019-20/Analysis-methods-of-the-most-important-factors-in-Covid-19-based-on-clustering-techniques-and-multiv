@@ -5,14 +5,14 @@ Variable de salida(New_Cases)
 Dataset: Nuevos Casos de corona virus según los países 
 Tipo de Problema de Aprendizaje: Claustering
 Medida de calidad : distortion
-Metodo Propuesto : 
-1. Carga de datos 
-2. Limpieza de Ruido
-3. Filtración de datos(Group by locations)
-4. Transformación de datos(Estandarización)
+Metodo Propuesto : <br/>
+1. Carga de datos <br/>
+2. Limpieza de Ruido<br/>
+3. Filtración de datos(Group by locations)<br/>
+4. Transformación de datos(Estandarización)<br/>
 5. Reducción(PCA)<br/>
 6.Metodo de Aprendizaje(Splitting,Regresión Lineal Multiples Variables)<br/>
-7.Visualización (Clustering,Kmeans(elbow),Agrupación de Usuarios )
+7.Visualización (Clustering,Kmeans(elbow),Agrupación de Usuarios )<br/>
 
 
 
