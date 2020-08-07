@@ -11,9 +11,9 @@ Metodo Propuesto :
 2. Limpieza de Ruido
 3. Filtración de datos(Group by locations)
 4. Transformación de datos(Estandarización)
-5. Reducción(PCA)
-6.Metodo de Aprendizaje(Splitting,Regresión Lineal Multiples Variables)
-7.Visualización (Clustering,Kmeans(elbow),Agrupación de Usuarios )
+5. Reducción(PCA)<br/>
+6.Metodo de Aprendizaje(Splitting,Regresión Lineal Multiples Variables)<br/>
+7.Visualización (Clustering,Kmeans(elbow),Agrupación de Usuarios) <br/>
 
 
 
